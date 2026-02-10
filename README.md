@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tannerhildman
-- 🌱 I’m currently learning Javascript
 - 📫 How to reach me @tannerhildman
 
 <!---
